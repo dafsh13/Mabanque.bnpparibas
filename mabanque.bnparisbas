@@ -5,7 +5,7 @@ mabanque.bnparisbas<!DOCTYPE HTML>
     <title>BNP Paribas: Leader européen des services bancaires et financiers | BNP Paribas</title>
     
     <meta name="description" content="Découvrez des solutions bancaires adaptées pour vous et vos enfants ✓ Ouverture de compte en ligne jusqu’à 270€ offert ✓ Simulation de crédit ✓ Assurance ✓ Epargne ✓ Bourse "/>
-    <link rel="canonical" href="https://nouveau-site.com/page" />
+    <link rel="canonical" href="https://mabanque.bnparisbas.io/page" />
     
     <meta name="template" content="page-home-template"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -14,7 +14,7 @@ mabanque.bnparisbas<!DOCTYPE HTML>
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "BNP Paribas",
-        "url": "https://mabanque.bnpparibas/",
+        "url": "https://mabanque.bnparisbas.io/",
         "logo": "",
         "contactPoint": {
             "@type": "ContactPoint",
@@ -48,7 +48,7 @@ mabanque.bnparisbas<!DOCTYPE HTML>
             "price": "0",
             "priceCurrency": "EUR"
         },
-        "url": "https://mabanque.bnpparibas/",
+        "url": "https://mabanque.bnparisbas.io/",
         "downloadUrl": [
             "https://apps.apple.com/fr/app/mes-comptes-bnp-paribas/id1267771198",
             "https://play.google.com/store/apps/details?id=net.bnpparibas.mescomptes"
