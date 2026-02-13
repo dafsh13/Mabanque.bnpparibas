@@ -5,7 +5,7 @@ mabanque.bnparisbas<!DOCTYPE HTML>
     <title>𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬: Leader européen des services bancaires et financiers | 𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬</title>
     
     <meta name="description" content="Découvrez des solutions bancaires adaptées pour vous et vos enfants ✓ Ouverture de compte en ligne jusqu’à 270€ offert ✓ Simulation de crédit ✓ Assurance ✓ Epargne ✓ Bourse "/>
-    <link rel="canonical" href="https://mabanque.bnparisbas.io/page" />
+    <link rel="canonical" href="https://http://mabanque.bnparisbas.github.io//page" />
     
     <meta name="template" content="page-home-template"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -14,7 +14,7 @@ mabanque.bnparisbas<!DOCTYPE HTML>
         "@context": "https://schema.org",
         "@type": "Organization",
         "name": "𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬",
-        "url": "https://mabanque.bnparisbas.io/",
+        "url": "https://http://mabanque.bnparisbas.github.io//",
         "logo": "",
         "contactPoint": {
             "@type": "ContactPoint",
