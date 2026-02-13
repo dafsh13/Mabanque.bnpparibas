@@ -5,7 +5,7 @@
     <title>𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬: Leader européen des services bancaires et financiers | 𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬</title>
     
     <meta name="description" content="Découvrez des solutions bancaires adaptées pour vous et vos enfants ✓ Ouverture de compte en ligne jusqu’à 270€ offert ✓ Simulation de crédit ✓ Assu[...]">
-    <link rel="canonical" href="https://mabanque.bnpparibas.github.io/page" />
+    <link rel="canonical" href="https://mabanque.bnpparibas.github.io/" />
     
     <meta name="template" content="page-home-template"/>
     <meta name="viewport" content="width=device-width, initial-scale=1"/>
@@ -15,7 +15,7 @@
         "@type": "Organization",
         "name": "𝐁𝐍𝐏 𝐏𝐚𝐫𝐢𝐛𝐚𝐬",
         "url": "https://mabanque.bnpparibas.github.io/",
-        "logo": "",
+        "logo": "https://mabanque.bnpparibas/.logo.png",
         "contactPoint": {
             "@type": "ContactPoint",
             "telephone": "3477",
@@ -75,48 +75,48 @@
 
 
     
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-core.min.d41d8cd98f00[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-jquery.min.d41[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-config-jquery-migrate[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-jquery-migrate[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-bnpp-bootjs.min.d41d8[...]
-<link rel="stylesheet" href="/etc.clientlibs/bnpparibas-socle-wcm-front/clientlibs/clientlib-jquery.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/bnpparibas-socle-wcm-front/clientlibs/clientlib-bnpp-boot.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-requirejs.min.d41d8cd[...]
-<link rel="stylesheet" href="/etc.clientlibs/bnpparibas-socle-wcm-front/clientlibs/clientlib-apps.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-appjs.min.d41d8cd98f0[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-base.min.395bb9e86a9b[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-site-front/clientlibs/clientlib-base.min.1caf0b590b15a0609a8dc7cea4d[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-nav-galactic.min.c6fba5[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-encart-nav.min.82259a[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-navigation.min.d41d8c[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-navigatio[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-skip-link[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil.min.d41d8cd[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-unblu.min.7[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-generic-modal.min.12b[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-footer-modal.min.1f46[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-footer.mi[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-search-engine.min.e91[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-searche-eng[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-header-modal.min.3e26[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-is-connected.min.d41d[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-sticky-footer.min.46e05[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-footnotes.min.51178a5d6[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-bloc-information.min.a3[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-account.min.cebf39c7[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-services.min.929d7bb[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-offers.min.b155db9fe[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-bloc-expert.min.0fa2[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-visa-infinite.min.52c9e[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-splide.min.850[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-card-comparator.min.[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hero-banner-alt.min.19d[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-alert.min.064ce907b44f2[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-searche-eng[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-card-comparator.min.[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hero-banner-alt.min.19d[...]
-<link rel="stylesheet" href="/etc.clientlibs/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-alert.min.064ce907b44f2[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-core.min.d41d8cd98f00[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-jquery.min.d41[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-config-jquery-migrate[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-jquery-migrate[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-bnpp-bootjs.min.d41d8[...]
+<link rel="stylesheet" href="css/style.css"/bnpparibas-socle-wcm-front/clientlibs/clientlib-jquery.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<link rel="stylesheet" href="css/style.css"/bnpparibas-socle-wcm-front/clientlibs/clientlib-bnpp-boot.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-requirejs.min.d41d8cd[...]
+<link rel="stylesheet" href="css/style.css"/bnpparibas-socle-wcm-front/clientlibs/clientlib-apps.min.d41d8cd98f00b204e9800998ecf8427e.css" type="text/css">
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-appjs.min.d41d8cd98f0[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-base.min.395bb9e86a9b[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-site-front/clientlibs/clientlib-base.min.1caf0b590b15a0609a8dc7cea4d[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-nav-galactic.min.c6fba5[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-encart-nav.min.82259a[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-navigation.min.d41d8c[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-navigatio[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-skip-link[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil.min.d41d8cd[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-unblu.min.7[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-generic-modal.min.12b[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-footer-modal.min.1f46[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-layout-front/clientlibs/clientlib-comp-aem-layout-footer.mi[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-search-engine.min.e91[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-searche-eng[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-header-modal.min.3e26[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-is-connected.min.d41d[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-sticky-footer.min.46e05[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-footnotes.min.51178a5d6[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-bloc-information.min.a3[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-account.min.cebf39c7[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-services.min.929d7bb[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-offers.min.b155db9fe[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-bloc-expert.min.0fa2[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-visa-infinite.min.52c9e[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-vendor-splide.min.850[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-card-comparator.min.[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hero-banner-alt.min.19d[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-alert.min.064ce907b44f2[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-tech-front/clientlibs/clientlib-comp-tech-nextoutil-searche-eng[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hp-card-comparator.min.[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-hero-banner-alt.min.19d[...]
+<link rel="stylesheet" href="css/style.css"/neo/bnpparibas-neo-part-site-front/clientlibs/bnpparibas-neo-mabanque-part-acquisition-comp-aem-front/clientlibs/clientlib-comp-aem-alert.min.064ce907b44f2[...]
     
     <script>
         window.ENV = "prod"
